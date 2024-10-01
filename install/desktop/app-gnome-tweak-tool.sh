@@ -1,0 +1,1 @@
+yay -S --noconfirm gnome-tweaks

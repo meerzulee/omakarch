@@ -1,0 +1,1 @@
+yay -S --noconfirm localsend-bin
